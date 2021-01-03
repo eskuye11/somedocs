@@ -1,0 +1,156 @@
+body {
+  background-color: #333456;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-weight: lighter;
+  overflow: auto;
+
+}
+
+.headernav {
+  width: 100%;
+  background-color: #333456;
+}
+
+.colr {
+  margin: 0;
+  padding: .5rem .2rem;
+  background-color: #333456;
+  box-shadow: 0 0 10px 5px #799351;
+}
+.welcom {
+  width: 55%;
+  margin-left: 1rem;
+  color: white;
+  font-weight: lighter;
+}
+
+.my-navbr {
+  margin-left: 1rem;
+  margin-right: 2rem;
+}
+
+.my-contnr {
+  margin: 1;rem
+  border-radius: 10%;
+  padding: 2% 3% 2%;
+}
+.main-body {
+  border-radius: 15%;
+  margin: 1rem;
+}
+
+.my-row {
+  border-radius: 1%;
+}
+.col {
+  padding: 5% 3% 3%;
+  background-color: #827397;
+
+}
+.achicard {
+  color: #827397;
+  padding: 8%;
+  border-radius: 1%;
+  background-color: #333456;
+
+}
+
+.card-title {
+  padding-top: 2rem;
+  font: italic 1.2em "Fira Sans", serif;
+  font-weight: bold;
+}
+.card-text {
+  font: italic "Fira Sans", serif;
+  font-weight:lighter;
+}
+.card-body:hover {
+  color: white;
+}
+
+img {
+  transition: transform .2s;
+  color: white;
+}
+img:hover {
+  transform: scale(1.1);
+  transform: rotate(360deg);
+
+}
+h4 {
+  color: green;
+}
+.vid-title {
+  color: #54e346;
+  font-size: 1rem;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-weight:lighter;
+}
+.vid-name {
+  color: #81b214;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+/*                                      tests                tests */
+.comming-soon {
+  margin-top: 8rem;
+  padding: 11rem auto;
+}
+.my-vrow {
+  margin: 0;
+  padding: 0;
+}
+.myPro {
+  border-radius: 25%;
+  box-shadow: inset 0 0 0 0 #c0e218;
+  transition: ease-out 0.3s;
+}
+.myPro:hover, .pro-text:hover {
+  box-shadow: inset 80px 0 0 0 #c0e218;
+  background-color: #c0e218;
+
+}
+.pro-text {
+  font-size: 1rem;
+  font-family: "Courier New", monospace;
+  font-weight: bold;
+  font-style: italic;
+  background-color: #827397;
+  height: 2rem;
+  text-align: center;
+  border-radius: 20%;
+
+}
+
+.myVsize {
+  padding-top: 0;
+  width: 100%;
+  height: auto;
+  justify-content: center;
+}
+.my-footer {
+  padding: 3rem;
+  text-align: center;
+  font-family:serif;
+  letter-spacing: .1rem;
+}
+.my-list {
+  padding: 6rem 3rem 2rem;
+  padding: auto;
+  height: 3rem;
+}
+.myimg {
+  width: 3%;
+  height:auto;
+  padding: 0 .4rem;
+}
+.design {
+  text-align: center;
+  color: #827397;
+}
+.loveP {
+  margin-top: 2rem;
+}
+#foot-text p:hover {
+  color: white;
+}
