@@ -8,7 +8,8 @@ body {
 
 .headernav {
   width: 100%;
-  background-color: #333456;
+/*   background-color: #333456; */
+  background-image: linear-gradient(to right,  rgba(51, 52, 86, 0.6), rgba(51, 52, 86, 1));
 }
 
 .colr {
