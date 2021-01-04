@@ -14,8 +14,9 @@ body {
 .colr {
   margin: 0;
   padding: .5rem .2rem;
-  background-color: #333456;
   box-shadow: 0 0 10px 5px #799351;
+/*   background-color: #333456; */  
+  background-image: linear-gradient(to right,  rgba(51, 52, 86, 0.6), rgba(51, 52, 86, 1));
 }
 .welcom {
   width: 55%;
@@ -51,7 +52,8 @@ body {
   color: #827397;
   padding: 8%;
   border-radius: 1%;
-  background-color: #333456;
+/*   background-color: #333456; */
+  background-image: linear-gradient(to bottom,  rgba(51, 52, 86, 0.7), rgba(51, 52, 86, 1));
 
 }
 
@@ -77,8 +79,8 @@ img:hover {
   transform: rotate(360deg);
 
 }
-h4 {
-  color: green;
+h2 {
+  color: white;
 }
 .vid-title {
   color: #54e346;
