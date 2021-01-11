@@ -154,3 +154,7 @@ h2 {
 #foot-text p:hover {
   color: white;
 }
+.qrcode {
+  width: 10rem;
+  margin: 2rem;
+}
